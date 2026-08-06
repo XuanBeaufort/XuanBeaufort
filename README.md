@@ -1,9 +1,3 @@
-```
-Wandering through the terminal's twilight, I find solace in the hum of legacy systems.
-As a Legacy Assurance Engineer, I delve into the forgotten realms of C++.
-Tools: Linux, Kubernetes, NestJS, Node.js
-My mantra: 'Universal 24/7 capability'
-Navigating alarms through a maze of grep and ps.
-Focus: ensuring the underlying machinery doesn't grind to a halt.
-A master of the shell, I ride the waves of uptime.
-```
+## A Sisu Coordinator's Manifesto
+
+As Xuan Beaufort, I orchestrate the symphony of product functionality. By day, I synchronize Go's harmony with AWS and GCP's orchestras. By night, I craft UI/UX love letters in React's ink. My focus lies within the subtle dance of indexing monitors – the rhythm that makes or breaks our applications. Devolved neutral focus groups have taught me that the perfect blend of logic and aesthetics is key. My mantra echoes through the void: 'Devolved neutral focus group.'
