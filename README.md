@@ -1,3 +1,12 @@
-## A Sisu Coordinator's Manifesto
+### Xuan Beaufort
+Customer Infrastructure Technician by day, bug hunter by night. I navigate programs through the labyrinth of code, uncovering hidden gems and resolving puzzles. Focus: unpacking the secrets of software.
+Motto: Reverse-engineered incremental forecast. Where the unknown becomes the map.
 
-As Xuan Beaufort, I orchestrate the symphony of product functionality. By day, I synchronize Go's harmony with AWS and GCP's orchestras. By night, I craft UI/UX love letters in React's ink. My focus lies within the subtle dance of indexing monitors – the rhythm that makes or breaks our applications. Devolved neutral focus groups have taught me that the perfect blend of logic and aesthetics is key. My mantra echoes through the void: 'Devolved neutral focus group.'
+### Tools
+* C++: the language of precision
+* Node.js: where the wind whispers secrets
+* Linux: the foundation of a well-built house
+* GCP: where clouds hold the keys
+* React: the visual symphony
+* Kubernetes: orchestrating the harmony
+* PostgreSQL: the keeper of tales
